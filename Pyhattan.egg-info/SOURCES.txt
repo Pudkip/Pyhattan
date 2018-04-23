@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+Pyhattan/__init__.py
+Pyhattan.egg-info/PKG-INFO
+Pyhattan.egg-info/SOURCES.txt
+Pyhattan.egg-info/dependency_links.txt
+Pyhattan.egg-info/not-zip-safe
+Pyhattan.egg-info/requires.txt
+Pyhattan.egg-info/top_level.txt
