@@ -67,6 +67,6 @@ GenerateManhattan(dat_csv,significance=2.5, refSNP='refSNP')
 Clone/Download the repo and enter the following in a command window:
 
             -------------------------------------------------------------------------------------
-                    python pip install ..Pyhattan/dist/Pyhattan-0.1-py2.py3-none-any.whl
+                    python pip install ../Pyhattan/dist/Pyhattan-0.1-py2.py3-none-any.whl
             -------------------------------------------------------------------------------------
 
