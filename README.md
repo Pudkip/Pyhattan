@@ -47,7 +47,7 @@ GenerateManhattan(dat_gemma_output,significance=2.5,refSNP='rs')
 ```
 
 
-![png](output_3_0.png)
+![alt text](https://user-images.githubusercontent.com/28498075/39158905-a9c46e1c-4730-11e8-8f5f-a9ea9dd285f4.png)
 
 
 ### Manhattan plot from csv
@@ -59,7 +59,7 @@ GenerateManhattan(dat_csv,significance=2.5, refSNP='refSNP')
 ```
 
 
-![png](output_5_0.png)
+![alt text](https://user-images.githubusercontent.com/28498075/39158860-5e3a3472-4730-11e8-88ef-e9aa10696454.png)
 
 
 ## Installation
