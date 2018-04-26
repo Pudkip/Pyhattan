@@ -69,4 +69,8 @@ Clone/Download the repo and enter the following in a command window:
             -------------------------------------------------------------------------------------
                     python pip install ../Pyhattan/dist/Pyhattan-0.1-py2.py3-none-any.whl
             -------------------------------------------------------------------------------------
+            
 
+## References
+
+I base my code on this [Stack Overflow answer](https://stackoverflow.com/questions/37463184/how-to-create-a-manhattan-plot-with-matplotlib-in-python#answer-37464420) by user Elad Joseph.
